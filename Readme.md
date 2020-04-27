@@ -1,4 +1,4 @@
-# Today's Objective: Conway's Game of Life (EASY THIS TIME!)
+# Today's Objective: Conway's Game of Life (EASY THIS TIME!, or is it?)
 
 ## Objective
 
