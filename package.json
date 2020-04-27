@@ -1,0 +1,23 @@
+{
+  "name": "2020-04-27-conways-game-easier-with-examples",
+  "version": "1.0.0",
+  "description": "## Objective",
+  "main": "index.js",
+  "dependencies": {
+    "@monarchwadia/conways-game-engine": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroAmaro219/2020-04-27-conways-game-easier-with-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroAmaro219/2020-04-27-conways-game-easier-with-examples/issues"
+  },
+  "homepage": "https://github.com/yaroAmaro219/2020-04-27-conways-game-easier-with-examples#readme"
+}
