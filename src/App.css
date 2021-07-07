@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  color: #1dadc0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+  align-items: center;
+  color: #cfcfcf;
+}
+
+.section-controls {
+  display: flex;
+  font-size: 1.12em;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-controls label {
+  margin: 0.7em 0.7em 1em 1.5em ;
+}
+
+.slider {
+  display: flex;
+  width: 150px;
+  align-self: center;
+}
+
+.section-game {
+  overflow-y: auto;
+  overflow-x: auto;
+  width: 100%;
+  height: 60vh;
+  margin: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 15px;
+}
+
+.game {
+  background-color: #282c34;
+}
